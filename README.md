@@ -7,4 +7,6 @@ couldn't figure out how to turn it into a round based game. I likely would have 
 
 Suggestions welcome. That is, if anyone ever reads this.
 
+PS this is written in Jupyter - it can be converted into a python script but I don't want to do that right now. 
+
 Oj
